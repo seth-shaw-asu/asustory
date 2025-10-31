@@ -2,7 +2,6 @@
 title: Academic Programs
 layout: cloud
 permalink: /acpro.html
-about-featured-image: burgundy.gif
 ---
 
 The *New* ASU Story: Academic Programs
