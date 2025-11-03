@@ -9,9 +9,9 @@ I started by using wget to crawl the site: `wget --wait=2 --mirror --convert-lin
 
 I zipped the `www.asu.edu/lib/archives/asustory/pages` contents into a zip file and passed it to [ChatGPT to create a TSV](https://chatgpt.com/c/69039424-dca8-832e-b545-4b818f860727).
 
-It did [okay at identifying the object identifier, title, and description](_data/pages_metadata_filtered_modified.tsv) (although with different column names) but I still removed a lot of erroneous fields.
+It did okay at identifying the object identifier, title, and description (although with different column names) but I still removed a lot of erroneous fields.
 
-I then did some manual work, such as renaming fields, to fit the [CollectionBuilder CSV](https://collectionbuilder.github.io/cb-docs/docs/metadata/csv_metadata/) [format](_data/asustory.tsv).
+I then did some manual work, such as renaming fields, to fit the [CollectionBuilder CSV](https://collectionbuilder.github.io/cb-docs/docs/metadata/csv_metadata/) format.
 
 The Excel-produced CSV didn't work (a known issue for CollectionBuilder), so I moved it to [Google Sheets](https://docs.google.com/spreadsheets/d/1Ax97YvOJgrTZn-4jML-WCkkS_vJfiM1rCZfCXXc15wc/edit?gid=1055021335#gid=1055021335) and then downloaded a new copy of the CSV.
 
