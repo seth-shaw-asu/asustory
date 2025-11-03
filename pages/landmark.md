@@ -1,11 +1,12 @@
 ---
 title: Landmarks
-layout: cloud
+layout: page
 permalink: /landmark.html
 ---
 
 The *New* ASU Story: Landmarks
-------------------------------
+==============================
+
 Photographs and memories are all that remain of some campus landmarks;
 others stand as protected icons of the last millennium. They mark the
 growth of an institution; they are more than mere bricks and mortar.

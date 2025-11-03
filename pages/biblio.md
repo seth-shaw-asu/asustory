@@ -1,6 +1,6 @@
 ---
 title: Bibliography & Relevant Links
-layout: cloud
+layout: page
 permalink: /biblio.html
 ---
 
@@ -12,8 +12,7 @@ Bibliography of Sources Consulted
 - **The Arizona State University Story** Earnest J. Hopkins and Alfred Thomas Jr. Southwest Publishing Co., Inc., Phoenix, Arizona: 1960 Univeristy Archives Collection 
 - **ASU from the Air Yesterday, Today and Tomorrow** Curator: David Scheatzle Assistant Curator: Emily Kimling University Archives Collection 
  
-Links to ASU Related Sites 
--------------------------- 
+## Links to ASU Related Sites 
  
 - [College of Liberal Arts and Sciences](https://thecollege.asu.edu/)    
 - [The W.P. Carey School of Business](https://wpcarey.asu.edu/) 

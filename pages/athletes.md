@@ -1,11 +1,11 @@
 ---
 title: Athletes
-layout: cloud
+layout: page
 permalink: /athletes.html
 ---
 
 The *New* ASU Story: Athletes
--------------------------------
+=============================
 
 The first organized competitive sport was baseball (1891), followed by
 football (1896) and then women's basketball (1899). Most early games

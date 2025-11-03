@@ -1,11 +1,11 @@
 ---
 title: Leadership
-layout: cloud
+layout: page
 permalink: /leaders.html
 ---
 
 The *New* ASU Story: Leadership
--------------------------------
+===============================
 
 In just over a century, sixteen principals and presidents have led ASU
 on its journey to greatness. Working together with student government,

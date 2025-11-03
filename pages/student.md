@@ -1,6 +1,6 @@
 ---
 title: Student Organizations
-layout: cloud
+layout: page
 permalink: /student.html
 ---
 

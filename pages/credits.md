@@ -1,6 +1,6 @@
 ---
 title: Acknowledgements
-layout: cloud
+layout: page
 permalink: /credits.html
 ---
 

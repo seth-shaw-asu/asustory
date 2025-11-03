@@ -1,6 +1,6 @@
 ---
 title: Academic Programs
-layout: cloud
+layout: page
 permalink: /acpro.html
 ---
 

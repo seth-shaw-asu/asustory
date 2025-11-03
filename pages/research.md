@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: cloud
+layout: page
 permalink: /research.html
 ---
 

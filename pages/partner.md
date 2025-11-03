@@ -1,12 +1,13 @@
 ---
 title: Community, Collaboration and Partnership
-layout: cloud
+layout: page
 permalink: /partner.html
 ---
 
 
 The *New* ASU Story: Community, Collaboration and Partnership
--------------------------------------------------------------
+=============================================================
+
 The Territorial Normal School was established in Tempe because the
 community recognized the potential of having an educational institution
 in their city. Today the university offers cultural and economic

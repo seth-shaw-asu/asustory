@@ -1,11 +1,12 @@
 ---
 title: Campus Scenes
-layout: cloud
+layout: page
 permalink: /campus.html
 ---
 
 The *New* ASU Story: Campus Scenes
 ==================================
+
 *Over 100 years of photographs depict students, staff and faculty at
 work and play; special events; and old and new traditions that define
 the character and spirit of campus life.
