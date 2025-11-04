@@ -19,7 +19,7 @@ The existing site includes some complex objects represented as a flat list. I ad
 
 ## Images
 
-The crawl only grabbed low-quality versions of the images. These are good enough for the proof-of-concept and, as a bonus, are small enough to put in git repository, which makes the deployment simpler. Moving forward, the existing zip files should be unipped and the full-sized images placed where the builder script can be deployed from.
+The crawl only grabbed low-quality versions of the images. These are good enough for the proof-of-concept and, as a bonus, are small enough to put in git repository, which makes the deployment simpler. Later on I unzipped all the zip files and replaced the existing poor quality images with the larger ones. (Note that complex objects didn't have zip files and at least one item, `06athlet`, is missing a zip file with a larger version.)
 
 I used the included derivative generation script to create the "small" and "thumbnail" versions (`rake generate_derivatives`) and then used a formula in Google Sheets to populate their path (e.g. `=CONCATENATE(CONCATENATE('/objects/small/', A2)'_sm.jpg')`).
 
